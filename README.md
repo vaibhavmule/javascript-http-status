@@ -1,2 +1,2 @@
 # javscript-status
-Javascript Status is tiny http status code utiliy library for redability.
+Javascript Status is tiny HTTP status code utility library for readability.
