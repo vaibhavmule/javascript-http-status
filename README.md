@@ -1,4 +1,5 @@
-# javscript-status
+# Javascript Status
+
 [![Build Status](https://travis-ci.org/vaibhavmule/javscript-status.svg)](https://travis-ci.org/vaibhavmule/javscript-status)
 
 
