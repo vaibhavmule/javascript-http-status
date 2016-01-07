@@ -1,7 +1,7 @@
 {
   "name": "javascript-status",
   "version": "1.0.0",
-  "description": "Javascript Status Code for Human Understandable Code",
+  "description": "Javascript Status is tiny http status code utiliy library for redability.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vaibhavmule/javscript-status.git"
