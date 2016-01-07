@@ -1,0 +1,21 @@
+{
+  "name": "javascript-status",
+  "version": "1.0.0",
+  "description": "Javascript Status Code for Human Understandable Code",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavmule/javscript-status.git"
+  },
+  "keywords": [
+    "http",
+    "status",
+    "status-code",
+    "http-status-code"
+  ],
+  "author": "Vaibhav Mule",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vaibhavmule/javscript-status/issues"
+  },
+  "homepage": "https://github.com/vaibhavmule/javscript-status#readme"
+}
