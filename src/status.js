@@ -48,7 +48,7 @@ const Status = {
   http503ServiceUnavailable: 503,
   http504GatewayTimeout: 504,
   http505HttpVersionNotSupported: 505,
-  http511NetworkAuthenticationRequired: 511
+  http511NetworkAuthenticationRequired: 511,
 };
 
 export default Status;
