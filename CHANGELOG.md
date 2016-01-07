@@ -1,3 +1,5 @@
-0.1.0 / 2015-11-22
+## 1.0.0 / (January 8, 2016)
 ==================
-- Add description here
+### Javascript Status
+Initail Release.
+

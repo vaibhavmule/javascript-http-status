@@ -18,7 +18,8 @@
     "http",
     "status",
     "status-code",
-    "http-status-code"
+    "http-status-code",
+    "javscript-status"
   ],
   "author": "Vaibhav Mule <vaibhavmule135@gmail.com>",
   "license": "MIT",
