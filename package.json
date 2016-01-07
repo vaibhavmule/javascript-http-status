@@ -12,7 +12,7 @@
     "status-code",
     "http-status-code"
   ],
-  "author": "Vaibhav Mule",
+  "author": "Vaibhav Mule <vaibhavmule135@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vaibhavmule/javscript-status/issues"
