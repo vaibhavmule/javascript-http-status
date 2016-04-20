@@ -4,8 +4,8 @@
   "main": "build/index.js",
   "description": "Javascript Status is tiny HTTP status code utility library for readability.",
   "scripts": {
-    "test": "mocha --compilers js:babel-core/register --recursive",
-    "test-cov": "babel-node isparta cover --report html --report text node_modules/.bin/_mocha",
+    "test": "mocha --compilers js:babel-register",
+    "test-cov": "babel-node node_modules/isparta/bin/isparta cover --report html --report text node_modules/.bin/_mocha",
     "build": "babel src --out-dir build",
     "clean": "rm -rf build",
     "lint": "eslint src test"
