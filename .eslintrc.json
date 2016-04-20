@@ -10,8 +10,5 @@
   "ecmaFeatures": {
     "modules": true
   },
-  "extends": "airbnb/base",
-  "rules": {
-    "semi": [2, "never"]
-  }
+  "extends": "airbnb/base"
 }
