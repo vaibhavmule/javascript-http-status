@@ -6,3 +6,32 @@
 
 
 Javascript Status is tiny HTTP status code utility library for readability.
+
+## Install
+
+```
+$ npm install --save javascript-status
+```
+
+## Usage
+
+ES5
+```js
+var status = require('javascript').default; // Don't forget the .default here.
+var express = require('express')
+
+app.get('/', function (req, res) {
+  res.send('Hello World!', status.http200Ok);
+});
+
+app.listen(3000, function () {
+  console.log('Example app listening on port 3000!');
+});
+```
+
+ES6 import statement and usage
+```js
+import status from 'javascript-status'
+
+console.log(status.http201Created)
+```
