@@ -10,14 +10,14 @@ Javascript Status is tiny HTTP status code utility library for readability.
 ## Install
 
 ```
-$ npm install --save javascript-status
+$ npm i --save javascript-status
 ```
 
 ## Usage
 
 ES5
 ```js
-var status = require('javascript').default; // Don't forget the .default here.
+var status = require('javascript-status').default; // Don't forget the .default here.
 var express = require('express')
 
 app.get('/', function (req, res) {
