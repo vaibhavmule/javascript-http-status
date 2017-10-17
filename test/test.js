@@ -1,5 +1,5 @@
 import { expect } from 'chai';
-import Status from '../src/index.js';
+import Status from '../src/status';
 
 describe('Status', () => {
   it('should return 200', () => {
