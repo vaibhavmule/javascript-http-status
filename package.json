@@ -1,6 +1,6 @@
 {
   "name": "javascript-status",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "main": "build/index.js",
   "description": "Javascript Status is tiny HTTP status code utility library for readability.",
   "scripts": {
