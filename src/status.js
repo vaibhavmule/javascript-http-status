@@ -1,4 +1,5 @@
 const Status = {
+
   http100Continue: 100,
   http101SwitchingProtocols: 101,
   http102Processing: 102,
@@ -42,6 +43,10 @@ const Status = {
   http429TooManyRequests: 429,
   http431RequestHeaderFieldsTooLarge: 431,
   http451UnavailableForLegalReasons: 451,
+  http495SSLCertificationError:495,
+  http496SSLCertificateRequired:496,
+  http497HTTPRequestSentToHTTPSPort:497,
+  http499ClientClosedRequest:499,
   http500InternalServerError: 500,
   http501NotImplemented: 501,
   http502BadGateway: 502,
