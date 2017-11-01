@@ -1,5 +1,4 @@
 const Status = {
-
   http100Continue: 100,
   http101SwitchingProtocols: 101,
   http102Processing: 102,
