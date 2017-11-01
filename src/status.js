@@ -41,6 +41,7 @@ const Status = {
   http428PreconditionRequired: 428,
   http429TooManyRequests: 429,
   http431RequestHeaderFieldsTooLarge: 431,
+  http444NoResponse: 444, // Non Standard status code for nginx https://httpstatuses.com/444
   http451UnavailableForLegalReasons: 451,
   http500InternalServerError: 500,
   http501NotImplemented: 501,
