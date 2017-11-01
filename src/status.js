@@ -1,4 +1,5 @@
 const Status = {
+
   http100Continue: 100,
   http101SwitchingProtocols: 101,
   http102Processing: 102,
@@ -43,6 +44,14 @@ const Status = {
   http431RequestHeaderFieldsTooLarge: 431,
   http444NoResponse: 444, // Non Standard status code for nginx https://httpstatuses.com/444
   http451UnavailableForLegalReasons: 451,
+  /****************************************************************************
+    non-standard http status code for nginx 444, 495, 496, 497, 499.
+    source: https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#nginx
+  ****************************************************************************/
+  http495SSLCertificationError:495,
+  http496SSLCertificateRequired:496,
+  http497HTTPRequestSentToHTTPSPort:497,
+  http499ClientClosedRequest:499,
   http500InternalServerError: 500,
   http501NotImplemented: 501,
   http502BadGateway: 502,
