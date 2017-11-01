@@ -49,6 +49,7 @@ const Status = {
   http504GatewayTimeout: 504,
   http505HttpVersionNotSupported: 505,
   http511NetworkAuthenticationRequired: 511,
+  http444NoResponse: 444,
 };
 
 export default Status;
