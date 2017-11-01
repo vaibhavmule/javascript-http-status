@@ -43,6 +43,10 @@ const Status = {
   http429TooManyRequests: 429,
   http431RequestHeaderFieldsTooLarge: 431,
   http451UnavailableForLegalReasons: 451,
+  /****************************************************************************
+    non-standard http status code for nginx 444, 495, 496, 497, 499.
+    source: https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#nginx
+  ****************************************************************************/
   http495SSLCertificationError:495,
   http496SSLCertificateRequired:496,
   http497HTTPRequestSentToHTTPSPort:497,
