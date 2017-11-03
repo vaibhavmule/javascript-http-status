@@ -5,7 +5,7 @@
   "description": "Javascript Status is tiny HTTP status code utility library for readability.",
   "scripts": {
     "test": "jest",
-    "build": "babel src --out-dir build",
+    "build": "npm run clean && babel src --out-dir build",
     "clean": "rm -rf build",
     "lint": "eslint src test"
   },
