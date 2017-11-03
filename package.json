@@ -4,8 +4,7 @@
   "main": "build/index.js",
   "description": "Javascript Status is tiny HTTP status code utility library for readability.",
   "scripts": {
-    "test": "mocha --require babel-register",
-    "test-cov": "babel-node node_modules/isparta/bin/isparta cover --report html --report text node_modules/.bin/_mocha",
+    "test": "jest",
     "build": "babel src --out-dir build",
     "clean": "rm -rf build",
     "lint": "eslint src test"
@@ -28,16 +27,13 @@
   },
   "homepage": "https://github.com/vaibhavmule/javscript-status#readme",
   "devDependencies": {
-    "babel-cli": "^6.7.5",
+    "babel-cli": "^6.26.0",
     "babel-eslint": "^8.0.1",
+    "babel-jest": "^21.2.0",
     "babel-preset-env": "^1.6.1",
-    "babel-preset-stage-0": "^6.5.0",
-    "babel-register": "^6.7.2",
-    "chai": "^4.1.2",
-    "eslint": "^4.9.0",
+    "eslint": "^4.10.0",
     "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-plugin-import": "^2.7.0",
-    "isparta": "^4.0.0",
-    "mocha": "^4.0.1"
+    "eslint-plugin-import": "^2.8.0",
+    "jest": "^21.2.1"
   }
 }
