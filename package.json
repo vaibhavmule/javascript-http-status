@@ -7,7 +7,9 @@
     "test": "jest",
     "build": "npm run clean && babel src --out-dir build",
     "clean": "rm -rf build",
-    "lint": "eslint src test"
+    "lint": "eslint src test",
+    "check": "./node_modules/.bin/npm-check -u",
+    "prepare": "npm run clean && npm run lint && npm run test && npm run build"
   },
   "repository": {
     "type": "git",
@@ -34,6 +36,7 @@
     "eslint": "^4.10.0",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.8.0",
-    "jest": "^21.2.1"
+    "jest": "^21.2.1",
+    "npm-check": "^5.5.1"
   }
 }
