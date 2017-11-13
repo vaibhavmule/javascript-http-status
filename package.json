@@ -31,14 +31,14 @@
   "homepage": "https://github.com/vaibhavmule/javscript-status#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-eslint": "^8.0.1",
+    "babel-eslint": "^8.0.2",
     "babel-jest": "^21.2.0",
     "babel-preset-env": "^1.6.1",
-    "eslint": "^4.10.0",
+    "eslint": "^4.11.0",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.8.0",
     "jest": "^21.2.1",
     "np": "^2.16.1",
-    "npm-check": "^5.5.1"
+    "npm-check": "^5.5.2"
   }
 }
