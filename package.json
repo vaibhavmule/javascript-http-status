@@ -1,5 +1,5 @@
 {
-  "name": "http_status",
+  "name": "javascript-http-status",
   "version": "1.3.0",
   "main": "build/index.js",
   "description": "Javascript Status is tiny HTTP status code utility library for readability.",
@@ -21,7 +21,7 @@
     "status",
     "status-code",
     "http-status-code",
-    "javscript-status"
+    "javascript-http-status"
   ],
   "author": "Vaibhav Mule <vaibhavmule135@gmail.com>",
   "license": "MIT",

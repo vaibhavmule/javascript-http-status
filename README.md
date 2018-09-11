@@ -1,4 +1,4 @@
-# HTTP Status
+# Javascript HTTP Status
 
 [![Build Status](https://travis-ci.org/vaibhavmule/javscript-status.svg)](https://travis-ci.org/vaibhavmule/javascript-status)
 [![npm version](https://img.shields.io/npm/v/javascript-status.svg)](https://www.npmjs.com/package/javascript-status)
