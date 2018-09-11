@@ -10,7 +10,7 @@ Javascript HTTP Status is tiny HTTP status code utility library for readability.
 ## Install
 
 ```
-$ npm i --save javascript-status
+$ npm i --save javascript-http-status
 ```
 
 ## Usage
