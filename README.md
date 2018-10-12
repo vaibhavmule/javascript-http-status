@@ -1,11 +1,11 @@
-# Javascript HTTP Status
+# Javascript HTTP Status by @vaibhavmule
 
 [![Build Status](https://travis-ci.org/vaibhavmule/javscript-http-status.svg)](https://travis-ci.org/vaibhavmule/javascript-http-status)
 [![npm version](https://img.shields.io/npm/v/javascript-http-status.svg)](https://www.npmjs.com/package/javascript-status)
 [![npm downloads](https://img.shields.io/npm/dm/javascript-http-status.svg?maxAge=2592000)](https://www.npmjs.com/package/javascript-http-status)
 
 
-Javascript HTTP Status is tiny HTTP status code utility library for readability.
+Javascript HTTP Status is tiny HTTP status code utility library for readability.@vaibhavmule
 
 ## Install
 
